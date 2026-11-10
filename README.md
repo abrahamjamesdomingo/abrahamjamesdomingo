@@ -46,7 +46,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,git,github,vscode,mysql,figma&amp;theme=dark&amp;perline=11" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccpp%2Chtml%2Ccss%2Cjs%2Cgit%2Cgithub%2Cvscode%2Cmysql%2Cfigma&amp;theme=dark&amp;perline=11" />
     <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,git,github,vscode,mysql,figma&amp;theme=light&amp;perline=11" alt="Python, Java, C++, HTML, CSS, JavaScript, Git, GitHub, VS Code, MySQL, and Figma" />
   </picture>
   <br/><br/>
@@ -126,6 +126,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrahamjamesdomingo/abrahamjamesdomingo/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/abrahamjamesdomingo/abrahamjamesdomingo/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
   </picture>
+  <sub>Auto-refreshes every 12 hours as my contributions grow.</sub>
 </div>
 
 <br/>
