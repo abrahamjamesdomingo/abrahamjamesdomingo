@@ -106,6 +106,7 @@
   <a href="mailto:abrahamjamesdomingo@proton.me">
     <img src="https://img.shields.io/badge/Email-abrahamjamesdomingo%40proton.me-6D4AFF?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white" alt="Email" />
   </a>
+  <br/>
   <a href="https://www.linkedin.com/in/abrahamjamesdomingo">
     <img src="https://img.shields.io/badge/LinkedIn-abrahamjamesdomingo-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
