@@ -1,7 +1,11 @@
 <div align="center">
 <img src="./assets/hero.svg" width="100%" alt="Abraham James Domingo — BS Computer Science student and University Scholar at Isabela State University" />
 <a href="https://github.com/abrahamjamesdomingo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Turning+curiosity+into+clean%2C+working+code.;Sophomore+BS+Computer+Science+Student.;University+Scholar+at+Isabela+State+University.;Learning+today.+Building+tomorrow." alt="Typing introduction" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Turning+curiosity+into+clean%2C+working+code.;Sophomore+BS+Computer+Science+Student.;University+Scholar+at+Isabela+State+University.;Learning+today.+Building+tomorrow." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Turning+curiosity+into+clean%2C+working+code.;Sophomore+BS+Computer+Science+Student.;University+Scholar+at+Isabela+State+University.;Learning+today.+Building+tomorrow." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Turning+curiosity+into+clean%2C+working+code.;Sophomore+BS+Computer+Science+Student.;University+Scholar+at+Isabela+State+University.;Learning+today.+Building+tomorrow." alt="Typing introduction" />
+  </picture>
 </a>
 <br/><br/>
 <a href="https://www.linkedin.com/in/abrahamjamesdomingo">
@@ -59,7 +63,11 @@
 ## `> currently_learning`
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Data+Structures+%26+Algorithms;Object-Oriented+Programming;Responsive+Web+Development;Database+Design+with+MySQL" alt="Currently learning: data structures and algorithms, object-oriented programming, responsive web development, and database design with MySQL" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Data+Structures+%26+Algorithms;Object-Oriented+Programming;Responsive+Web+Development;Database+Design+with+MySQL" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=0369A1&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Data+Structures+%26+Algorithms;Object-Oriented+Programming;Responsive+Web+Development;Database+Design+with+MySQL" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=0369A1&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Data+Structures+%26+Algorithms;Object-Oriented+Programming;Responsive+Web+Development;Database+Design+with+MySQL" alt="Currently learning: data structures and algorithms, object-oriented programming, responsive web development, and database design with MySQL" />
+  </picture>
 </div>
 
 <table>
