@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-labelledby="capTitle">
+  <title id="capTitle">Graduation cap</title>
+  <defs>
+    <linearGradient id="capGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="0.55" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+      <animate attributeName="x1" values="0;0.2;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;1.2;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="capGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="capSoft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+
+  <circle cx="110" cy="110" r="92" fill="url(#halo)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="110" cy="110" r="82" fill="none" stroke="#1e293b" stroke-width="1.5" stroke-dasharray="4 9">
+    <animateTransform attributeName="transform" type="rotate" from="0 110 110" to="360 110 110" dur="36s" repeatCount="indefinite"/>
+  </circle>
+  <g>
+    <circle cx="110" cy="28" r="4" fill="#22d3ee">
+      <animateTransform attributeName="transform" type="rotate" from="0 110 110" to="360 110 110" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="192" cy="110" r="2.5" fill="#818cf8" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="0 110 110" to="-360 110 110" dur="20s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(0, 6)">
+    <path d="M52 104 L110 72 L168 104 L110 136 Z" fill="#22d3ee" opacity="0.35" filter="url(#capGlow)"/>
+    <path d="M52 102 L110 70 L168 102 L110 134 Z" fill="url(#capGrad)" stroke="#a5f3fc" stroke-width="1" stroke-linejoin="round"/>
+    <path d="M74 117 V144 C74 160 146 160 146 144 V117" fill="none" stroke="url(#capGrad)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M74 117 V144 C74 160 146 160 146 144 V117" fill="none" stroke="#a5f3fc" stroke-width="1" opacity="0.35"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-5 168 102;5 168 102;-5 168 102" dur="4.5s" repeatCount="indefinite"/>
+      <path d="M168 102 V154" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="168" cy="158" r="5.5" fill="#fbbf24"/>
+      <circle cx="168" cy="158" r="9" fill="#fbbf24" opacity="0.3" filter="url(#capSoft)"/>
+    </g>
+    <path d="M68 100 L110 77" stroke="#e0f2fe" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+  </g>
+</svg>
