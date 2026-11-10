@@ -46,8 +46,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,git,github,vscode,mysql,figma&amp;theme=dark&amp;perline=6" />
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,git,github,vscode,mysql,figma&amp;theme=light&amp;perline=6" alt="Python, Java, C++, HTML, CSS, JavaScript, Git, GitHub, VS Code, MySQL, and Figma" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,git,github,vscode,mysql,figma&amp;theme=dark&amp;perline=11" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,git,github,vscode,mysql,figma&amp;theme=light&amp;perline=11" alt="Python, Java, C++, HTML, CSS, JavaScript, Git, GitHub, VS Code, MySQL, and Figma" />
   </picture>
   <br/><br/>
   <strong>Languages</strong> · Python · Java · C++ · JavaScript · HTML · CSS<br/>
@@ -114,6 +114,18 @@
   </a>
   <br/><br/>
   <em>“First, solve the problem. Then, write the code.” — John Johnson</em>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## `> contribution_graph`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abrahamjamesdomingo/abrahamjamesdomingo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrahamjamesdomingo/abrahamjamesdomingo/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/abrahamjamesdomingo/abrahamjamesdomingo/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+  </picture>
 </div>
 
 <br/>
